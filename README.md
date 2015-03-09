@@ -4,4 +4,4 @@ This is the repository for managing publicly recognized issues with the [Graph C
 
 https://github.com/graphcommons/graphcommons-issues/issues
 
-We appreciate comments, questions, feature requests, etc. Post everything here. We'll tag and organize it all.
+We appreciate comments, questions, feature requests, etc. Post everything here, we'll organize it all.
